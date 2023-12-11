@@ -1,0 +1,37 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: white;
+
+    
+    
+    }
+    html .flex{
+        display: flex;
+        align-items: center;
+        justify-content: space-between
+    }
+
+    body{
+        width:100% ;
+        height: 100vh;
+        font-family:'Poppins',sans-serif ;
+        
+        background-image: url(img/4.jpg);
+    }
+    form{
+        width: 330px;
+        background-color: rgba(255, 255, 255, 0.366); 
+        padding: 77px;
+        margin: 55px auto;
+        }
+form h1{
+    text-align: center;
+    margin: 10px;
+}
+form h1 span{
+    color: #5aa4fe;
+}
+form h3{
+    margin: 10px;
+}
